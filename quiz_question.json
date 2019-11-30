@@ -1,0 +1,18 @@
+{
+    "1": {
+        "question": "Who betrayed Jesus?",
+        "a": "John the Baptist",
+        "b": "Paul",
+        "c": "Judas Iscariot",
+        "d": "Moses",
+        "ans": "c"
+    },
+    "2": {
+        "question": "How many books are there in the bible?",
+        "a": "64",
+        "b": "68",
+        "c": "66",
+        "d": "67",
+        "ans": "c"
+    }
+}
